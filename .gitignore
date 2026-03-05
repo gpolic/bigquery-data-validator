@@ -1,0 +1,10 @@
+# Local overrides with real credentials
+settings.local.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

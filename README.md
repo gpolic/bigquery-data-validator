@@ -1,7 +1,9 @@
 # BigQuery Data Validator
 
 Validate Data in your BigQuery Dataset
+
 Google Apps Script runs data quality checks (unique and not-null assertions) on BigQuery tables.
+
 Set a trigger for the script and receive alerts via Email and Slack.
 
 ## Features
